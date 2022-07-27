@@ -94,3 +94,7 @@ spring:
   kafka:
     bootstrap-servers: ${KAFKA_HOST:localhost:29092} 
 ```
+
+## Collection do Postman
+
+Link da collection do postman: https://www.getpostman.com/collections/fc0d6c26953d14bbb9c2
